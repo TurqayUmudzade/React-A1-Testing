@@ -11,8 +11,8 @@ function getData() {
   return fetch("/api/data")
 }
 
-function функция() {
-  return 1
+function метод() {
+  return "one"
 }
 
 function get$$$Data() {

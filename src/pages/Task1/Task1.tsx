@@ -3,7 +3,7 @@ import { FC } from "react"
 const Task1: FC = () => {
   return (
     <div>
-      <p className="bg-red-200 ">Task1</p>
+      <p className="bg-red-200 ">こんにちは</p>
     </div>
   )
 }
