@@ -1,0 +1,17 @@
+ This project seems to be a frontend web application built with Vite.js and Tailwind CSS.
+
+The src folder likely contains all the source code for the frontend. This includes components, pages, styles, etc.
+
+The server folder probably contains the backend code for an API.
+
+The public folder holds static assets like images.
+
+package.json contains metadata about the project and its dependencies.
+
+.gitignore tells Git which files to ignore.
+
+.eslintrc contains ESLint configuration, for code style checking.
+
+index.html is likely the entry point HTML file.
+
+Overall, this seems to be a frontend web app with a separate backend API, built with modern tools like Vite, Tailwind CSS, and ESLint.
